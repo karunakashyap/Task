@@ -36,3 +36,94 @@
     transform: rotate(360deg);
   }
 }
+.react-logo img{
+  width: 300px;
+ 
+}
+.some-text p{
+  font-size: 12px;
+  font-weight: 500;
+  margin-top:-8px;
+  color:black;
+}
+.row{
+   margin-left: 360px;
+   margin-top:40px;
+}
+.login{
+  font-weight: 500;
+  border: none;
+  background-color: white;
+ 
+ 
+  border-bottom: none;
+}
+.signup{
+  font-weight: 500;
+  border: none;
+  background-color: white;
+ 
+  
+  border-bottom: none;
+}
+.login:hover{
+  border-bottom:3px solid #ff0066;
+  font-weight: 700;
+}
+.signup:hover{
+  border-bottom:3px solid #ff0066;
+  font-weight: 700;
+}
+.form-data
+{
+  margin-top: 40px;
+}
+.form-data input{
+  border-radius: 20px;
+ padding: 8px;
+ font-size: 12px;;
+ width: 250px;
+ border: 2px solid black;
+}
+.login-button{
+  width: 250px;
+  padding: 8px;
+  border: none;
+  background-color:#ff0066;
+  color: white;
+  border-radius: 20px;
+}
+.password{
+  color:#ff0066;
+  margin-left:156px;
+  font-size: 14px;
+  margin-top: 10px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.or-login{
+  font-size: 12px;
+  font-weight: 400px;
+  color: gray;
+}
+.google-logo{
+  border: 1px solid gainsboro;
+  border-radius: 40px;
+  padding:8px;
+  margin-left: -13px;
+  cursor: pointer;
+}
+.facebook-logo{
+  border: 1px solid gainsboro;
+  border-radius: 40px;
+  padding:8px;
+  margin-left: 30px;
+  cursor: pointer;
+}
+.twitter-logo{
+  border: 1px solid gainsboro;
+  border-radius: 40px;
+  padding:8px;
+  margin-left: 30px;
+  cursor: pointer;
+}
